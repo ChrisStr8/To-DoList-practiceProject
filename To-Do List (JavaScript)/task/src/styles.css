@@ -1,0 +1,8 @@
+.check:checked + .task{
+    text-decoration: line-through;
+}
+
+.task:hover {
+    color: blue;
+    font-family: "Century Gothic";
+}
